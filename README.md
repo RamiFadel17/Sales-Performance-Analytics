@@ -1,15 +1,16 @@
 # Sales Performance Analytics
 
 End-to-end sales operations analytics project using **SQL, Python, Power BI, and synthetic CRM data** to analyze revenue performance, pipeline health, forecasting, quota attainment, sales efficiency, and opportunity aging.
+
 ## Dashboard Preview
 
 ### Executive Overview
 
-![Executive Overview](Executive%20Overview.png)
+![Executive Overview](Screenshots/Executive%20Overview.png)
 
 ### Pipeline & Forecast
 
-![Pipeline & Forecast](Pipeline%20%26%20Forecast.png)
+![Pipeline & Forecast](Screenshots/Pipeline%20%26%20Forecast.png)
 
 ## Project Objective
 
