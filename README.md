@@ -210,4 +210,4 @@ This is an independent portfolio project built using synthetic data to demonstra
 2. Run the SQL scripts in the `SQL/` folder to reproduce the pipeline, forecasting, aging, team-performance, and KPI analyses.
 3. Open the Power BI file in the `PowerBI/` folder to explore the completed data model and dashboards.
 
-The Python script in the `Python/` folder can also be used for data validation, transformation, and exploratory analysis.
+The Python script in the Python/ folder is used for data validation, transformation, and exploratory analysis.
